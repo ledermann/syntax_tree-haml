@@ -26,7 +26,7 @@ GEM
     syntax_tree (5.0.1)
       prettier_print (>= 1.1.0)
     temple (0.9.1)
-    thor (1.2.1)
+    thor (1.4.0)
     tilt (2.0.11)
 
 PLATFORMS
